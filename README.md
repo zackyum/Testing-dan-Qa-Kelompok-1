@@ -10,12 +10,12 @@
 | :--- | :--- |
 | **Judul Proyek** | Analisis Kualitas dan Fungsionalitas Website Mutoh2000 Menggunakan Metode Black Box Testing Berdasarkan Standar ISO/IEC 25010:2023 |
 | **Nama Aplikasi / Target** | Website Mutoh2000 |
-| **URL Target** | https://mutoh2000.com/ |
-| **Tim Penyusun (Kelompok)** | 1. Nama (NIM)<br>2. Nama (NIM)<br>3. Nama (NIM)<br>4. Nama (NIM) |
+| **URL WEB** | https://mutoh2000.com/ |
+| **Tim Penyusun (Kelompok)** | 1. Ariel Modjo Satriawan (231011403476)<br>2. Nama (NIM)<br>3. Nama (NIM)<br>4. Nama (NIM) |
 | **Mata Kuliah** | Testing & Quality Assurance (QA) - Semester 7 |
 | **Program Studi / Kampus** | Teknik Informatika / Universitas Pamulang |
 | **Versi Dokumen** | 1.0.0 |
-| **Tanggal Terbit** | 25 November 2026 |
+| **Tanggal Terbit** | 21 November 2026 |
 | **Standar Acuan** | ISO/IEC/IEEE 29119-3:2021 (Test Documentation) & ISO/IEC 25010:2023 (Product Quality Model) |
 
 ---
