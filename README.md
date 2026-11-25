@@ -15,3 +15,5 @@ Berisi file dan dokumentasi pengerjaan tugas kelompok.
 
 | Parameter | Deskripsi |
 | :--- | :--- |
+| **Judul Proyek** | Analisis Pengujian Kualitas dan Fungsionalitas Platform Galeri.art Menggunakan Metode Black Box Testing Berdasarkan Standar ISO/IEC 25010:2023 |
+
