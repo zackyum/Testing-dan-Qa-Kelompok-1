@@ -102,16 +102,16 @@ Pengujian terbatas pada fitur yang dapat diakses secara publik, tanpa akses admi
 
 | No. | Tahapan | PIC | Target Mulai | Target Selesai | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | Referensi ISO dan Jurnal | Azacky Habibilah Syahlan | 16 Nov 2026 | 22 Nov 2026 | Completed |
+| 01 | Referensi ISO dan Jurnal | Ariel Modjo Satriawan | 16 Nov 2026 | 22 Nov 2026 | Completed |
 | 02 | Analisis Sistem | Artha Mauludani | 16 Nov 2026 | 22 Nov 2026 | Completed |
-| 03 | Dokumen Pengujian | Ariel Modjo Satriawan | 21 Nov 2026 | 25 Nov 2026 | Completed |
+| 03 | Dokumen Pengujian | Azacky Habibilah Syahlan | 21 Nov 2026 | 25 Nov 2026 | Completed |
 | 04 | Skenario dan Test Case | Akhmad Maulana Fadil | 23 Nov 2026 | 25 Nov 2026 | Completed |
 | 05 | Pengujian Manual | Artha Mauludani | 26 Nov 2026 | 4 Des 2026 | Pending |
 | 06 | Pengujian Otomatis | Ariel Modjo Satriawan | 30 Nov 2026 | 8 Des 2026 | Pending |
 | 07 | Wawancara QA Engineer | Azacky Habibilah Syahlan | 30 Nov 2026 | 6 Des 2026 | Pending |
 | 08 | Laporan Akhir | Akhmad Maulana Fadil | 7 Des 2026 | 12 Des 2026 | Pending |
 
-PIC bertanggung jawab untuk mengoordinasikan dan memastikan setiap tahapan selesai sesuai target. Seluruh anggota tetap terlibat dalam pelaksanaan pengujian, review, dan penyusunan laporan.
+Setiap PIC bertanggung jawab terhadap tahapan yang ditetapkan. Seluruh anggota tetap terlibat dalam pengujian dan review hasil pekerjaan.
 
 ### Target Penyelesaian
 
