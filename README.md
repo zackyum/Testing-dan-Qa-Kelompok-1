@@ -14,7 +14,7 @@
 | **Tim Penyusun (Kelompok)** | 1. Ariel Modjo Satriawan (231011403476)<br>2. Azacky Habibilah Syahlan (231011402531)<br>3. Artha Mauludani (231011401756)<br>4. Akhmad Maulana Fadil (231011401337) |
 | **Mata Kuliah** | Testing & Quality Assurance (QA) - Semester 7 |
 | **Program Studi / Kampus** | Teknik Informatika / Universitas Pamulang |
-| **Versi Dokumen** | 1.0.0 |
+| **Versi Dokumen** | 2.1.0 |
 | **Tanggal Terbit** | 21 November 2026 |
 | **Standar Acuan** | ISO/IEC/IEEE 29119-3:2021 (Test Documentation) & ISO/IEC 25010:2023 (Product Quality Model) |
 
