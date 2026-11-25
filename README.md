@@ -11,3 +11,7 @@ Repository ini digunakan untuk dokumentasi dan pengerjaan tugas kelompok mata ku
 
 ## Dokumentasi
 Berisi file dan dokumentasi pengerjaan tugas kelompok.
+
+
+| Parameter | Deskripsi |
+| :--- | :--- |
