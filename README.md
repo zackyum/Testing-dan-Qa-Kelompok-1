@@ -108,7 +108,7 @@ Pengujian terbatas pada fitur yang dapat diakses secara publik, tanpa akses admi
 | 04 | Skenario dan Test Case | Akhmad Maulana Fadil | 23 Nov 2026 | 25 Nov 2026 | Completed |
 | 05 | Pengujian Manual | Artha Mauludani | 26 Nov 2026 | 4 Des 2026 | Pending |
 | 06 | Pengujian Otomatis | Ariel Modjo Satriawan | 30 Nov 2026 | 8 Des 2026 | Pending |
-| 07 | Wawancara QA Engineer | Azacky Habibilah Syahlan | 30 Nov 2026 | 6 Des 2026 | Pending |
+| 07 | Wawancara QA Engineer | Semua Anggota | 30 Nov 2026 | 6 Des 2026 | Pending |
 | 08 | Laporan Akhir | Akhmad Maulana Fadil | 7 Des 2026 | 12 Des 2026 | Pending |
 
 Setiap PIC bertanggung jawab terhadap tahapan yang ditetapkan. Seluruh anggota tetap terlibat dalam pengujian dan review hasil pekerjaan.
