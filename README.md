@@ -9,6 +9,7 @@
 
 | Parameter | Deskripsi |
 | :--- | :--- |
+| Judul Proyek | Analisis Kualitas dan Fungsionalitas Website Mutoh2000 Menggunakan Metode Black Box Testing Berdasarkan Standar ISO/IEC 25010:2023 |
 | Objek Pengujian | Website Mutoh2000 |
 | URL | https://mutoh2000.com/ |
 | Mata Kuliah | Testing & Quality Assurance (QA) |
@@ -31,11 +32,9 @@
 
 ## 3. Deskripsi Proyek
 
-Proyek ini dilakukan untuk menganalisis kualitas dan fungsionalitas website Mutoh2000 menggunakan metode Black Box Testing dengan mengacu pada standar ISO/IEC/IEEE 29119 dan ISO/IEC 25010:2023.
-
 Mutoh2000 merupakan website katalog produk perlengkapan kantor dan sekolah yang menyediakan berbagai fitur, seperti pencarian produk, kategori, filter harga, detail produk, wishlist, dan compare product.
 
-Pengujian dilakukan untuk mengetahui kesesuaian fungsi website, mengidentifikasi defect, serta memberikan rekomendasi berdasarkan hasil pengujian.
+Pengujian dilakukan menggunakan metode Black Box Testing dengan mengacu pada standar ISO/IEC/IEEE 29119 dan ISO/IEC 25010:2023 untuk mengetahui kualitas website, kesesuaian fungsi, serta kendala yang ditemukan selama pengujian.
 
 ## 4. Tujuan Pengujian
 
@@ -43,7 +42,7 @@ Pengujian dilakukan untuk mengetahui kesesuaian fungsi website, mengidentifikasi
 - Mengidentifikasi bug atau defect pada website.
 - Mengevaluasi kualitas website berdasarkan ISO/IEC 25010:2023.
 - Melaksanakan pengujian manual dan otomatis.
-- Mendokumentasikan proses dan hasil pengujian.
+- Memberikan rekomendasi perbaikan berdasarkan hasil pengujian.
 
 ## 5. Standar Acuan
 
@@ -55,7 +54,7 @@ Pengujian dilakukan untuk mengetahui kesesuaian fungsi website, mengidentifikasi
 | ISO/IEC/IEEE 29119-4:2021 | Test Techniques |
 | ISO/IEC 25010:2023 | Product Quality Model |
 
-Referensi standar dan jurnal pendukung tersedia pada folder `01-Referensi`.
+Referensi standar ISO dan jurnal pendukung tersedia pada folder `01-Referensi`.
 
 ## 6. Metode dan Tools Pengujian
 
@@ -67,7 +66,7 @@ Referensi standar dan jurnal pendukung tersedia pada folder `01-Referensi`.
 - Error Guessing
 - Exploratory Testing
 
-### Tools
+### Tools Pengujian
 
 | Tools | Kegunaan |
 | :--- | :--- |
@@ -79,6 +78,8 @@ Referensi standar dan jurnal pendukung tersedia pada folder `01-Referensi`.
 | GitHub Issues | Defect Tracking |
 
 ## 7. Ruang Lingkup Pengujian
+
+Pengujian mencakup beberapa fitur dan aspek berikut:
 
 - Homepage dan navigasi
 - Katalog produk
@@ -95,26 +96,30 @@ Referensi standar dan jurnal pendukung tersedia pada folder `01-Referensi`.
 - Performance
 - Pemeriksaan dasar HTTPS
 
-Pengujian terbatas pada fitur yang dapat diakses secara publik dan tidak mencakup transaksi nyata maupun pengujian yang dapat mengganggu operasional website.
+Pengujian terbatas pada fitur yang dapat diakses secara publik, tanpa akses administrator, kode sumber, maupun database. Pengujian tidak mencakup transaksi nyata atau aktivitas yang dapat mengganggu operasional website.
 
-## 8. Progress Pengerjaan
+## 8. Timeline dan Progress Pengerjaan
 
-| No. | Tahapan | Status |
-| :--- | :--- | :--- |
-| 01 | Referensi ISO dan Jurnal | Completed |
-| 02 | Analisis Sistem | Completed |
-| 03 | Test Plan dan Quality Metrics | Completed |
-| 04 | Test Scenario dan Test Case | Completed |
-| 05 | Pengujian Manual | Pending |
-| 06 | Laporan Bug | Pending |
-| 07 | User Acceptance Testing | Pending |
-| 08 | Pengujian Otomatis | Pending |
-| 09 | Pengujian Non-Fungsional | Pending |
-| 10 | Pengujian API | Pending |
-| 11 | Pengujian Regresi | Pending |
-| 12 | Wawancara QA Engineer | Pending |
-| 13 | Log Aktivitas | Pending |
-| 14 | Laporan Akhir dan Presentasi | Pending |
+| No. | Tahapan | Target Mulai | Target Selesai | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | Referensi ISO dan Jurnal | 16 Nov 2026 | 22 Nov 2026 | Completed |
+| 02 | Analisis Sistem | 16 Nov 2026 | 22 Nov 2026 | Completed |
+| 03 | Dokumen Pengujian | 21 Nov 2026 | 25 Nov 2026 | Completed |
+| 04 | Skenario dan Test Case | 23 Nov 2026 | 25 Nov 2026 | Completed |
+| 05 | Pengujian Manual | 26 Nov 2026 | 4 Des 2026 | Pending |
+| 06 | Pengujian Otomatis | 30 Nov 2026 | 8 Des 2026 | Pending |
+| 07 | Wawancara QA Engineer | 30 Nov 2026 | 6 Des 2026 | Pending |
+| 08 | Laporan Akhir | 7 Des 2026 | 12 Des 2026 | Pending |
+
+### Target Penyelesaian
+
+| Agenda | Target |
+| :--- | :--- |
+| Pengumpulan Laporan | 12 Desember 2026 |
+| Persiapan Presentasi | 13-18 Desember 2026 |
+| Presentasi UAS | 19 Desember 2026 |
+
+Timeline dapat disesuaikan dengan kondisi pengerjaan dan jadwal perkuliahan.
 
 ## 9. Ringkasan Pengujian
 
@@ -139,21 +144,28 @@ Hasil pengujian akan diperbarui setelah tahap Test Execution dilakukan.
     Testing-dan-QA-Kelompok-1/
     ├── README.md
     ├── 01-Referensi/
+    │   ├── ISO-Standards.md
+    │   └── Journal-References.md
     ├── 02-Analisis-Sistem/
+    │   └── System-Inventory.md
     ├── 03-Dokumen/
+    │   ├── Test-Plan.md
+    │   └── Quality-Metrics.md
     └── 04-Skenario-dan-Test-Case/
+        ├── Test-Scenario.md
+        └── Test-Case.md
 
-Struktur repository akan diperbarui mengikuti tahapan pengerjaan.
+Folder berikutnya akan ditambahkan sesuai dengan tahapan pengerjaan.
 
 ## 11. Riwayat Revisi
 
 | Versi | Tanggal | Keterangan |
 | :--- | :--- | :--- |
-| 2.1.0 | 21 November 2026 | Penyusunan dokumen Test Plan berdasarkan standar ISO. |
-| 2.2.0 | 25 November 2026 | Penambahan referensi, System Inventory, Quality Metrics, Test Scenario, dan Test Case serta pembaruan struktur dokumentasi. |
+| 2.1.0 | 21 November 2026 | Penyusunan Test Plan dan penentuan ruang lingkup pengujian berdasarkan standar ISO. |
+| 2.2.0 | 25 November 2026 | Penambahan referensi, System Inventory, Quality Metrics, Test Scenario, Test Case, serta penyusunan timeline dan struktur dokumentasi. |
 
 ## 12. Kesimpulan Sementara
 
-Tahap persiapan pengujian telah selesai, meliputi identifikasi sistem, penyusunan rencana pengujian, penentuan parameter kualitas, serta penyusunan skenario dan test case.
+Tahap persiapan pengujian telah selesai dengan menghasilkan 22 test scenario dan 40 test case berdasarkan hasil identifikasi fitur website Mutoh2000.
 
-Tahap berikutnya adalah pelaksanaan Manual Testing berdasarkan test case yang telah disusun. Hasil pengujian dan temuan defect akan didokumentasikan secara bertahap.
+Tahap selanjutnya adalah pelaksanaan Manual Testing. Seluruh hasil pengujian, dokumentasi evidence, dan temuan defect akan dicatat sebagai bahan evaluasi kualitas website dan penyusunan laporan akhir.
