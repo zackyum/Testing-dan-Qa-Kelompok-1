@@ -1,0 +1,15 @@
+{
+  "name": "mutoh2000-qa-automation",
+  "version": "1.0.0",
+  "description": "Automated black box tests (Playwright) untuk https://mutoh2000.com/",
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium",
+    "test:headed": "playwright test --headed --project=chromium",
+    "report": "playwright show-report",
+    "codegen": "playwright codegen https://mutoh2000.com/"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
